@@ -2,11 +2,11 @@
 #include <stdbool.h>
 
 int main(){
-  bool sabaSundor = true;
+  bool boishaliBhalo= true;
   
-  if(sabaSundor) {
-      printf("you are on the right path!");
-  } else if(!sabaSundor) {
+  if(boishaliBhalo) {
+      printf("ask her out!");
+  } else if(!boishaliBhalo) {
       printf("oops...");
   }
 
